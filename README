@@ -1,0 +1,17 @@
+(Note: Must have python installed on the system)
+Make sure the following python libraries are installed in the machine: pandas, numpy, ntpath, sklearn, matplotlib
+
+To install these libraries, run the following commands in your terminal:
+pip install numpy
+pip install pandas
+pip install ntpath
+pip install sklearn
+pip install matplotlib 
+
+
+---How to run PCA on a dataset using PCA.py script---
+
+1. Provide the path of the file for the "file_path" variable in line number 8
+2. Save the file.
+3. run "python PCA.py"
+4. The scatterplots will be found in the same folder.
